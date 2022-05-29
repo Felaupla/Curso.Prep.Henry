@@ -1,0 +1,4 @@
+ARRAY
+
+El Array en JavaScript es una lista de datos donde se loss puede agrupar, o coleccionarlos, y acceder a ellos cuando se necesite.
+Una característica es que de puede acceder a los datos según el índice, y realizar cualquier tipo de operaciones, o validaciones, booleanas o no.
