@@ -1,0 +1,6 @@
+Prototype
+Para poder ahorrar memoria en replicar métodos para cada objeto, Prototype permite compartir un solo método para todos los objetos.
+Pueden anidarse y definirse en diferentes niveles.
+
+Constructors (de clases)
+Un constructor de Clases permite crear e inicializar un objeto a partir de una clase. Solo puede haber un constructor por clase, sino arrojará error de sintaxis.
