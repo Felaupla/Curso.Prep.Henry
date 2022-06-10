@@ -1,0 +1,2 @@
+Funciones Callback. Las funciones callback son las funciones que están detalladas como argumento de otra función, de manera de mimizar la cantidad de código y en función de ello, la utilización de memoria.
+Otra característica es que pueden ser llamadas nuevamente y utilizadas por separado pasandole argumentos. 
